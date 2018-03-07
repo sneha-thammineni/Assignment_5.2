@@ -1,0 +1,22 @@
+.brand-logo{
+	color: white;
+	padding: 20px;
+    font-size: 12px;
+}
+
+header{
+	background-color: green;
+}
+
+body{
+	height: 95vh;
+	margin-top: 5px;
+}
+/* Small Screen view */
+
+@media screen and (max-width: 450px){
+	header{
+	background-color: blue;
+
+}
+}
